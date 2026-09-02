@@ -21,6 +21,12 @@ AI / ML · COMPUTER VISION · DATA · FULL-STACK · RESEARCH
 
 <br>
 
+<sub>
+Previous GitHub:
+<a href="https://github.com/falahdrrhmn">@falahdrrhmn</a>
+— legacy account, no longer maintained
+</sub>
+
 `M.Sc. INFORMATICS @ ITS` &nbsp; `MEDICAL AI` &nbsp; `SOFTWARE ENGINEERING`
 
 </div>
